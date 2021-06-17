@@ -8,7 +8,13 @@ Annotations of [com.github.charlemaznable:gentle-factory](https://github.com/Cha
 
 ##### Maven Dependency
 
-待发布.
+```xml
+<dependency>
+  <groupId>com.github.charlemaznable</groupId>
+  <artifactId>gentle-factory-annotations</artifactId>
+  <version>0.0.2</version>
+</dependency>
+```
 
 ##### Maven Dependency SNAPSHOT
 
@@ -16,6 +22,6 @@ Annotations of [com.github.charlemaznable:gentle-factory](https://github.com/Cha
 <dependency>
   <groupId>com.github.charlemaznable</groupId>
   <artifactId>gentle-factory-annotations</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.3-SNAPSHOT</version>
 </dependency>
 ```
