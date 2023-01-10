@@ -12,7 +12,7 @@ Annotations of [com.github.charlemaznable:gentle-factory](https://github.com/Cha
 <dependency>
   <groupId>com.github.charlemaznable</groupId>
   <artifactId>gentle-factory-annotations</artifactId>
-  <version>2022.0.2</version>
+  <version>2022.0.3</version>
 </dependency>
 ```
 
@@ -22,6 +22,6 @@ Annotations of [com.github.charlemaznable:gentle-factory](https://github.com/Cha
 <dependency>
   <groupId>com.github.charlemaznable</groupId>
   <artifactId>gentle-factory-annotations</artifactId>
-  <version>2023.0.0-SNAPSHOT</version>
+  <version>2022.0.4-SNAPSHOT</version>
 </dependency>
 ```
